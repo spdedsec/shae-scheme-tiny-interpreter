@@ -1,0 +1,17 @@
+# Bytecode / compiled (Guile)
+*.go
+*.go.*
+
+# Editor / IDE
+.*.swp
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Guile cache
+.cache/
